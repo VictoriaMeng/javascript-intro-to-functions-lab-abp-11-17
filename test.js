@@ -18,4 +18,4 @@ else if (string === "I love you, Grandma.") {
 }
 }
 
-sayHiToGrandma("hi")
+sayHiToGrandma("I love you, Grandma.")
